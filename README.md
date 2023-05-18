@@ -7,7 +7,7 @@ A Get &amp; Post Requests Library Using Vanilla NodeJS
 2. Use the following code
 ```
 // import library
-const Requests = require(./requests);
+const Requests = require('../requests');
 // use
 Requests.GetRequest(ENDPOINT_URL,KEY_IF_NEEDED);
 ```
